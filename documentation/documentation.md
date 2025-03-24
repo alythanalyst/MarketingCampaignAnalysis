@@ -1,4 +1,4 @@
-```
+
 # Marketing Campaign Analysis - Technical Documentation
 
 ## Project Overview
@@ -91,4 +91,3 @@ The `images/` folder contains screenshots of the Power BI dashboard reports, inc
 * `scripts/campaign_analysis.py`: Python script for data processing (using anonymized data).
 * `images/`: Folder containing dashboard report images.
 * `documentation/documentation.md`: This technical documentation file.
-```
